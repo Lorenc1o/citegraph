@@ -1,0 +1,46 @@
+[Entry]
+Intriguing Properties of Neural Networks
+2013
+
+[Entry]
+Evasion Attacks against Machine Learning at Test Time
+2013
+Adversarial Machine Learning
+
+[Entry]
+Adversarial Machine Learning
+2011
+
+[Entry]
+Explaining and Harnessing Adversarial Examples
+2014
+Towards Deep Learning Models Resistant to Adversarial Examples
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Intriguing Properties of Neural Networks
+
+[Entry]
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+2014
+Explaining and Harnessing Adversarial Examples
+Intriguing Properties of Neural Networks
+
+[Entry]
+The Limitations of Deep Learning in Adversarial Settings
+2015
+The Security of Machine Learning
+Can Machine Learning be Secure?
+Evasion Attacks against Machine Learning at Test Time
+Pattern Recognitions Systems under Attack: Design Issues and Research Challenges
+Security Evaluation of Pattern Classifiers under Attack
+Evading Network Anomaly Detection Systems: Formal Reasoning and Practical Techniques
+Explaining and Harnessing Adversarial Examples
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Adversarial Machine Learning
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Intriguing Properties of Neural Networks
+
+[Entry]
+Towards Deep Learning Models Resistant to Adversarial Examples
+2014
+Avoiding Pathologies in Very Deep Networks
+Intriguing Properties of Neural Networks
