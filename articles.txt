@@ -1,4 +1,29 @@
 [Entry]
+Adversarial Classification
+2004
+
+[Entry]
+Adversarial Learning
+2005
+
+[Entry]
+Can Machine Learning be Secure?
+2006
+
+[Entry]
+Classifier Evasion: Models and Open Problems
+2010
+
+[Entry]
+Adversarial Machine Learning
+2011
+Can Machine Learning be Secure?
+Adversarial Classification
+Evading Network Anomaly Detection Systems: Formal Reasoning and Practical Techniques
+Adversarial Learning
+Classifier Evasion: Models and Open Problems
+
+[Entry]
 Intriguing Properties of Neural Networks
 2013
 
@@ -8,13 +33,9 @@ Evasion Attacks against Machine Learning at Test Time
 Adversarial Machine Learning
 
 [Entry]
-Adversarial Machine Learning
-2011
-
-[Entry]
 Explaining and Harnessing Adversarial Examples
 2014
-Towards Deep Learning Models Resistant to Adversarial Examples
+Towards Deep Learning Models Robust to Adversarial Examples
 Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
 Intriguing Properties of Neural Networks
 
@@ -30,7 +51,7 @@ The Limitations of Deep Learning in Adversarial Settings
 The Security of Machine Learning
 Can Machine Learning be Secure?
 Evasion Attacks against Machine Learning at Test Time
-Pattern Recognitions Systems under Attack: Design Issues and Research Challenges
+Pattern Recognition Systems under Attack: Design Issues and Research Challenges
 Security Evaluation of Pattern Classifiers under Attack
 Evading Network Anomaly Detection Systems: Formal Reasoning and Practical Techniques
 Explaining and Harnessing Adversarial Examples
@@ -40,7 +61,74 @@ Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecogn
 Intriguing Properties of Neural Networks
 
 [Entry]
-Towards Deep Learning Models Resistant to Adversarial Examples
+Towards Deep Learning Models Robust to Adversarial Examples
 2014
 Avoiding Pathologies in Very Deep Networks
 Intriguing Properties of Neural Networks
+
+[Entry]
+Distributional Smoothing by Virtual Adversarial Examples
+2015
+Explaining and Harnessing Adversarial Examples
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+
+[Entry]
+Analysis of Classifiers' Robustness to Adversarial Perturbations
+2015
+Can Machine Learning be Secure?
+Evasion Attacks against Machine Learning at Test Time
+Towards Evaluating the Robustness of Neural Networks
+Adversarial Classification
+Learning to Classify with Missing and Corrupted Features
+Explaining and Harnessing Adversarial Examples
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Practical Evasion of a Learning-Based Classifier: A Case Study
+Intriguing Properties of Neural Networks
+DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
+
+[Entry]
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+2016
+The Limitations of Deep Learning in Adversarial Settings
+Intriguing Properties of Neural Networks
+Explaining and Harnessing Adversarial Examples
+Adversarial Machine Learning
+Pattern Recognition Systems under Attack: Design Issues and Research Challenges
+Evasion Attacks against Machine Learning at Test Time
+Evading Network Anomaly Detection Systems: Formal Reasoning and Practical Techniques
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Distributional Smoothing by Virtual Adversarial Examples
+Analysis of Classifiers' Robustness to Adversarial Perturbations
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Adversarial Perturbations of Deep Neural Networks
+The Security of Machine Learning
+Automatically Evading Classifiers
+Can Machine Learning be Secure?
+Security Evaluation of Pattern Classifiers under Attack
+
+[Entry]
+Pattern Recognition Systems under Attack: Design Issues and Research Challenges
+2014
+Open Problems in the Security of Learning
+Can Machine Learning be Secure?
+Evasion Attacks against Machine Learning at Test Time
+Adversarial Pattern Classification using Multiple Classifiers and Randomisation
+Evade Hard Multiple Classifiers Systems
+Multiple Classifier Systems for Adversarial Classification Tasks
+Multiple Classifier Systems for Robust Classifier Design in Adversarial Environments
+Multiple Classifier Systems Under Attack
+Design of Robust Classifiers for Adversarial Environments
+Security Evaluation of Pattern Classifiers under Attack
+Adversarial Classification
+Learning to Classify with Missing and Corrupted Features
+On the Vulnerability of Face Verification Systems to Hill-Climbing Attacks
+Nightmare at Test Time: Robust Learning by Feature Deletion
+Adversarial Machine Learning
+Machine Learning Methods for Computer Security
+Classifier Evaluation and Attribute Selection against Active Adversaries
+Adversarial Learning
+Good Word Attacks on Statistical Spam Filters
+Near-Optimal Evasion of Convex-Inducing Classifiers
+Pattern Recognition Systems under Attack
+Convex Adversarial Collective Classification
