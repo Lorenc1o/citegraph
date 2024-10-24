@@ -5,14 +5,19 @@ Adversarial Classification
 [Entry]
 Adversarial Learning
 2005
+Adversarial Classification
 
 [Entry]
 Can Machine Learning be Secure?
 2006
-
-[Entry]
-Classifier Evasion: Models and Open Problems
-2010
+Learning Nested Differences in the Presence of Malicious Noise
+PAC Learning with Nasty Noise
+Adversarial Classification
+How to Beat an Adaptive Spam Filter
+Learning in the Presence of Malicious Errors
+Adversarial Learning
+Good Word Attacks on Statistical Spam Filters
+On Attacking Statistical Spam Filters
 
 [Entry]
 Adversarial Machine Learning
@@ -132,3 +137,179 @@ Good Word Attacks on Statistical Spam Filters
 Near-Optimal Evasion of Convex-Inducing Classifiers
 Pattern Recognition Systems under Attack
 Convex Adversarial Collective Classification
+
+[Entry]
+DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
+2015
+Analysis of Classifiers' Robustness to Adversarial Perturbations
+Explaining and Harnessing Adversarial Examples
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Intriguing Properties of Neural Networks
+Manitest: Are Classifiers Really Invariant?
+
+[Entry]
+Manitest: Are Classifiers Really Invariant?
+2015
+Intriguing Properties of Neural Networks
+
+[Entry]
+Adversarial Attacks in the Physical World
+2016
+Evasion Attacks against Machine Learning at Test Time
+Adversarial Classification
+Explaining and Harnessing Adversarial Examples
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples
+Practical Black-Box Attacks against Machine Learning
+Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
+Intriguing Properties of Neural Networks
+
+[Entry]
+Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
+2016
+Spoofing in 2D Face Recognition with 3D Masks and Anti-Spoofing with Kinect
+Fundamental Limits on Adversarial Robustness
+Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures
+On the Vulnerability of Face Verification Systems to Hill-Climbing Attacks
+Explaining and Harnessing Adversarial Examples
+Cracking Classifiers for Evasion: A Case Study on the Google's Phishing Pages Filter
+The Limitations of Deep Learning in Adversarial Settings
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Practical Evasion of a Learning-Based Classifier: A Case Study
+Intriguing Properties of Neural Networks
+
+[Entry]
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples
+2016
+Can Machine Learning be Secure?
+Evasion Attacks against Machine Learning at Test Time
+Security Evaluation of Pattern Classifiers under Attack
+Explaining and Harnessing Adversarial Examples
+Adversarial Machine Learning
+Machine Learning in Adversarial Settings
+The Limitations of Deep Learning in Adversarial Settings
+Practical Black-Box Attacks against Machine Learning
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Intriguing Properties of Neural Networks
+Adversarial Perturbations of Deep Neural Networks
+
+[Entry]
+Practical Black-Box Attacks against Machine Learning
+2017
+Can Machine Learning be Secure?
+Evasion Attacks against Machine Learning at Test Time
+Explaining and Harnessing Adversarial Examples
+Adversarial Machine Learning
+Adversarial Examples in the Physical World
+The Limitations of Deep Learning in Adversarial Settings
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
+Practical Evasion of a Learning-Based Classifier: A Case Study
+Intriguing Properties of Neural Networks
+Stealing Machine Learning Models via Prediction APIs
+Adversarial Perturbations of Deep Neural Networks
+Automatically Evading Classifiers
+
+[Entry]
+Towards Evaluating the Robustness of Neural Networks
+2016
+Measuring Neural Net Robustness with Constraints
+Hidden Voice Commands
+Explaining and Harnessing Adversarial Examples
+Adversarial Perturbations Against Deep Neural Networks for Malware Classification
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Learning with a Strong Adversary
+Safety Verification of Deep Neural Networks
+Adversarial Examples in the Physical World
+DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
+CleverHans: an adversarial machine learning library
+On the Effectiveness of Defensive Distillation
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples
+The Limitations of Deep Learning in Adversarial Settings
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Understanding Adversarial Training: Increasing Local Stability of Neural Nets through Robust Optimization
+Intriguing Properties of Neural Networks
+Adversarial Perturbations of Deep Neural Networks
+
+[Entry]
+On the Effectiveness of Defensive Distillation
+2016
+Evasion Attacks against Machine Learning at Test Time
+Explaining and Harnessing Adversarial Examples
+The Limitations of Deep Learning in Adversarial Settings
+Transferability in Machine Learning: from Phenomena to Black-Box Attacks using Adversarial Samples
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Intriguing Properties of Neural Networks
+Adversarial Perturbations of Deep Neural Networks
+
+[Entry]
+On Detecting Adversarial Perturbations
+2017
+Towards Evaluating the Robustness of Neural Networks
+A Study of the Effect of JPG Compression on Adversarial Images
+Explaining and Harnessing Adversarial Examples
+Adversarial Examples in the Physical World
+Universal Adversarial Perturbations
+DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
+Practical Black-Box Attacks against Machine Learning Systems using Adversarial Examples
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Are Accuracy and Robustness Correlated?
+Intriguing Properties of Neural Networks
+A Boundary Tilting Persepective on the Phenomenon of Adversarial Examples
+Improving the Robustness of Deep Neural Networks via Stability Training
+
+[Entry]
+Universal Adversarial Perturbations
+2016
+Measuring Neural Net Robustness with Constraints
+Evasion Attacks against Machine Learning at Test Time
+Analysis of Classifier's Robustness to Adversarial Perturbations
+Robustness of Classifiers: from Adversarial to Random Noise
+Explaining and Harnessing Adversarial Examples
+Learning with a Strong Adversary
+DeepFool: a Simple and Accurate Method to Fool Deep Neural Networks
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Adversarial Diversity and Hard Positive Generation
+Adversarial Manipulation of Deep Representations
+Intriguing Properties of Neural Networks
+Exploring the Space of Adversarial Images
+
+[Entry]
+Measuring Neural Net Robustness with Constraints
+2016
+Analysis of Classifier's Robustness to Adversarial Perturbations
+Ensemble Robustness of Deep Learning Algorithms
+Explaining and Harnessing Adversarial Examples
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Learning with a Strong Adversary
+Distributional Smoothing by Virtual Adversarial Examples
+DeepFool: a Simple and Accurate Method to Fool Deep Neural Networks
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Practical Black-Box Attacks against Machine Learning Systems using Adversarial Examples
+Adversarial Manipulation of Deep Representations
+Understanding Adversarial Training: Increasing Local Stability of Neural Nets through Robust Optimization
+Intriguing Properties of Neural Networks
+Exploring the Space of Adversarial Images
+
+[Entry]
+Exploring the Space of Adversarial Images
+2015
+Intriguing Properties of Neural Networks
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Adversarial Manipulation of Deep Representations
+Explaining and Harnessing Adversarial Examples
+Analysis of Classifiers' Robustness to Adversarial Perturbations
+Improving Back-Propagation by Adding an Adversarial Gradient
+Learning with a Strong Adversary
+Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+
+[Entry]
+Adversarial Manipulation of Deep Representations
+2015
+Fundamental Limits on Adversarial Robustness
+Explaining and Harnessing Adversarial Examples
+Towards Deep Neural Network Architectures Robust to Adversarial Examples
+Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images
+Intriguing Properties of Neural Networks
+Exploring the Space of Adversarial Images
